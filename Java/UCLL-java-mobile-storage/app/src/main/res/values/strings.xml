@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UCLL Storage</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_load">Load</string>
+    <string name="rad_preferences">Preferences</string>
+    <string name="rad_file">File</string>
+    <string name="rad_database">Database</string>
+    <string name="rad_key_preferences">PrefContent</string>
+    <string name="pref_summary">The data in preference</string>
+    <string name="pref_title">Preferences data</string>
+</resources>

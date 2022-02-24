@@ -1,0 +1,10 @@
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/bin/Debug/netcoreapp2.2/ExamenOpdracht1.deps.json
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/bin/Debug/netcoreapp2.2/ExamenOpdracht1.runtimeconfig.json
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/bin/Debug/netcoreapp2.2/ExamenOpdracht1.runtimeconfig.dev.json
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/bin/Debug/netcoreapp2.2/ExamenOpdracht1.dll
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/bin/Debug/netcoreapp2.2/ExamenOpdracht1.pdb
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/obj/Debug/netcoreapp2.2/ExamenOpdracht1.AssemblyInfoInputs.cache
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/obj/Debug/netcoreapp2.2/ExamenOpdracht1.AssemblyInfo.cs
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/obj/Debug/netcoreapp2.2/ExamenOpdracht1.dll
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/obj/Debug/netcoreapp2.2/ExamenOpdracht1.pdb
+/home/karel/RiderProjects/Cs-gevorderen/ExamenOpdracht1/obj/Debug/netcoreapp2.2/ExamenOpdracht1.csprojAssemblyReference.cache

@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/karel/Projects/Rider/eindproject/eindproject/eindproject.csproj": {}
+  },
+  "projects": {
+    "/home/karel/Projects/Rider/eindproject/eindproject/eindproject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/karel/Projects/Rider/eindproject/eindproject/eindproject.csproj",
+        "projectName": "luchthaven",
+        "projectPath": "/home/karel/Projects/Rider/eindproject/eindproject/eindproject.csproj",
+        "packagesPath": "/home/karel/.nuget/packages/",
+        "outputPath": "/home/karel/Projects/Rider/eindproject/eindproject/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/karel/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

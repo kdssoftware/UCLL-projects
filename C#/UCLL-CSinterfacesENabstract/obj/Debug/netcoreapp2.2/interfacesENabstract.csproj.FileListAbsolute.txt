@@ -1,0 +1,10 @@
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/bin/Debug/netcoreapp2.2/interfacesENabstract.deps.json
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/bin/Debug/netcoreapp2.2/interfacesENabstract.runtimeconfig.json
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/bin/Debug/netcoreapp2.2/interfacesENabstract.runtimeconfig.dev.json
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/bin/Debug/netcoreapp2.2/interfacesENabstract.dll
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/bin/Debug/netcoreapp2.2/interfacesENabstract.pdb
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/obj/Debug/netcoreapp2.2/interfacesENabstract.csprojAssemblyReference.cache
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/obj/Debug/netcoreapp2.2/interfacesENabstract.AssemblyInfoInputs.cache
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/obj/Debug/netcoreapp2.2/interfacesENabstract.AssemblyInfo.cs
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/obj/Debug/netcoreapp2.2/interfacesENabstract.dll
+/home/karel/RiderProjects/Cs-gevorderen/interfacesENabstract/obj/Debug/netcoreapp2.2/interfacesENabstract.pdb

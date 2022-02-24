@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PlayerDetailsActivity">
+
+    <TextView
+        android:id="@+id/lblDtMatchName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="16dp"
+        android:text="Match name"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/lblDtMatchTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="07/08/2021"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/imgTime"
+        app:layout_constraintTop_toTopOf="@+id/imgTime" />
+
+    <TextView
+        android:id="@+id/lblDtMatchLocation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="Leuven"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/imgLocation"
+        app:layout_constraintTop_toTopOf="@+id/imgLocation" />
+
+    <ImageView
+        android:id="@+id/imgLocation"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="@+id/imgTime"
+        app:layout_constraintTop_toBottomOf="@+id/imgTime"
+        app:srcCompat="@drawable/location" />
+
+    <ImageView
+        android:id="@+id/imgTime"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintStart_toStartOf="@+id/lblDtMatchName"
+        app:layout_constraintTop_toBottomOf="@+id/lblDtMatchName"
+        app:srcCompat="@drawable/time" />
+
+    <RadioGroup
+        android:id="@+id/rbgPlayerStatus"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="@+id/lblWillYouBeThere"
+        app:layout_constraintStart_toStartOf="@+id/lblWillYouBeThere"
+        app:layout_constraintTop_toBottomOf="@+id/lblWillYouBeThere">
+
+        <RadioButton
+            android:id="@+id/rbStatusPlaying"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_playing" />
+
+        <RadioButton
+            android:id="@+id/rbStatusReserve"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_reserve" />
+
+        <RadioButton
+            android:id="@+id/rbStatusSick"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_sick" />
+
+        <RadioButton
+            android:id="@+id/rbStatusUnavailable"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_unavailable" />
+
+        <RadioButton
+            android:id="@+id/rbStatusInvited"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_invited" />
+
+        <RadioButton
+            android:id="@+id/rbStatusUninvited"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_uninvited" />
+
+        <RadioButton
+            android:id="@+id/rbStatusUnanswered"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_unanswered" />
+
+        <RadioButton
+            android:id="@+id/rbStatusDeclined"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_declined" />
+
+        <RadioButton
+            android:id="@+id/rbStatusAvailable"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:text="@string/status_available" />
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/fldPlayerMessage"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="@string/text_message_hint"
+        android:inputType="textMultiLine"
+        android:maxLines="1"
+        app:layout_constraintBottom_toTopOf="@+id/btnSendMessagebtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblPlayerMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Send a message"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/fldPlayerMessage"
+        app:layout_constraintStart_toStartOf="@+id/fldPlayerMessage" />
+
+    <Button
+        android:id="@+id/btnSendMessagebtn"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginEnd="64dp"
+        android:layout_marginBottom="16dp"
+        android:background="@drawable/button_bg"
+        android:backgroundTint="@null"
+        android:text="@string/send_message_button_text"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/lblWillYouBeThere"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:onClick="onBtnMessageClick"
+        android:text="@string/status_lable"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        app:layout_constraintStart_toStartOf="@+id/imgLocation"
+        app:layout_constraintTop_toBottomOf="@+id/imgLocation" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

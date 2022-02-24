@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#e00049</color>
+
+    <!-- UCLL Colors -->
+    <color name="ucllDarkBlue">#003469</color>
+    <color name="ucllWhite">#FFFFFF</color>
+    <color name="ucllPink">#e00049</color>
+    <color name="ucllLightBlue">#aae1fa</color>
+</resources>

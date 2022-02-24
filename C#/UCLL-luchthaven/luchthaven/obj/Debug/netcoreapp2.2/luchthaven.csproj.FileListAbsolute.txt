@@ -1,0 +1,11 @@
+/home/karel/Projects/Rider/eindproject/luchthaven/bin/Debug/netcoreapp2.2/luchthaven.deps.json
+/home/karel/Projects/Rider/eindproject/luchthaven/bin/Debug/netcoreapp2.2/luchthaven.runtimeconfig.json
+/home/karel/Projects/Rider/eindproject/luchthaven/bin/Debug/netcoreapp2.2/luchthaven.runtimeconfig.dev.json
+/home/karel/Projects/Rider/eindproject/luchthaven/bin/Debug/netcoreapp2.2/luchthaven.dll
+/home/karel/Projects/Rider/eindproject/luchthaven/bin/Debug/netcoreapp2.2/luchthaven.pdb
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.csprojAssemblyReference.cache
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.csproj.CoreCompileInputs.cache
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.AssemblyInfoInputs.cache
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.AssemblyInfo.cs
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.dll
+/home/karel/Projects/Rider/eindproject/luchthaven/obj/Debug/netcoreapp2.2/luchthaven.pdb

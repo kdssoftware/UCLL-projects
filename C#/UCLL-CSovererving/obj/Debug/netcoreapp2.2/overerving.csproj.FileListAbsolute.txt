@@ -1,0 +1,10 @@
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/netcoreapp2.2/overerving.deps.json
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/netcoreapp2.2/overerving.runtimeconfig.json
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/netcoreapp2.2/overerving.runtimeconfig.dev.json
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/netcoreapp2.2/overerving.dll
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/netcoreapp2.2/overerving.pdb
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/netcoreapp2.2/overerving.csprojAssemblyReference.cache
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/netcoreapp2.2/overerving.AssemblyInfoInputs.cache
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/netcoreapp2.2/overerving.AssemblyInfo.cs
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/netcoreapp2.2/overerving.dll
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/netcoreapp2.2/overerving.pdb

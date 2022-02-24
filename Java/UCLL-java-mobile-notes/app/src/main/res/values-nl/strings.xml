@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCLL Nota&quot;s</string>
+    <string name="note_title">Titel</string>
+    <string name="note_content">Inhoud</string>
+    <string name="note_creation_date">Datum creatie</string>
+    <string name="btnUpdate">Wijzigen</string>
+    <string name="btnCreate">Aanmaken</string>
+    <string name="title_mandatory">Title is een verplicht in te vullen veld</string>
+    <string name="content_mandatory">Content is een verplicht in te vullen veld</string>
+</resources>

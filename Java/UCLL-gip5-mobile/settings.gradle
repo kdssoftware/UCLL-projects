@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "gip5-mobile"

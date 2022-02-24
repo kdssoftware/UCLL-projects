@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UCLL Bank</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="action_website">Website</string>
+    <string name="next">Volgende</string>
+    <string name="previous">Vorige</string>
+    <string name="title_activity_settings">Instellingen</string>
+    <string name="common_header">Common</string>
+    <string name="language_title">Voorkeurtaal</string>
+    <string name="language_english">Engels</string>
+    <string name="language_french">Frans</string>
+    <string name="language_dutch">Nederlands</string>
+    <string name="language_german">Duits</string>
+</resources>

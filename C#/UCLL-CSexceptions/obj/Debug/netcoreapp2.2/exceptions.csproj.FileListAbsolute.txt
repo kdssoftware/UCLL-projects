@@ -1,0 +1,10 @@
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/netcoreapp2.2/exceptions.csprojAssemblyReference.cache
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfoInputs.cache
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/netcoreapp2.2/exceptions.AssemblyInfo.cs
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/netcoreapp2.2/exceptions.deps.json
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.json
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/netcoreapp2.2/exceptions.runtimeconfig.dev.json
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/netcoreapp2.2/exceptions.dll
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/netcoreapp2.2/exceptions.pdb
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/netcoreapp2.2/exceptions.dll
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/netcoreapp2.2/exceptions.pdb

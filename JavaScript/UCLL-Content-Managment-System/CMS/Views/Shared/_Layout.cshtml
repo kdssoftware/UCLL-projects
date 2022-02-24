@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - CMS</title>
+    <link rel="stylesheet" href="~/lib/semantic/semantic.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <!-- empty for now, had to move sidebar out of it.-->
+    </header>
+
+    <div class="ui sidebar inverted vertical menu">
+        <a class="active item" asp-area="" asp-controller="Home" asp-action="Index">Overview</a>
+        <a class="item">Add Course placeholder</a>
+        <a class="item" >Login/-out placeholder</a>
+    </div>
+
+    <div class="pusher">
+        <div class="ui container">
+            <div class="ui basic icon menu" id="toggleBar">
+                <a id="toggle" class="item">
+                    <i class="sidebar icon"></i>
+                    Menu
+                </a>
+            </div>
+
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+        <footer class="footer">
+            <div class="ui container">
+                <div class="">
+                    &copy; 2020 - CMS
+                </div>
+            </div>
+        </footer>
+    </div>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/semantic/semantic.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+        $('#toggle').click(function () {
+            $('.ui.sidebar').sidebar('toggle');
+        });
+    </script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

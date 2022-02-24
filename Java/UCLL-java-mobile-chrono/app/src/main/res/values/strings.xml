@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UCLL Chrono</string>
+    <string name="lblRunning">Chrono running</string>
+</resources>

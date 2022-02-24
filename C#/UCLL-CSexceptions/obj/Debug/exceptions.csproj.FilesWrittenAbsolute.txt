@@ -1,0 +1,8 @@
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/exceptions.pdb
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/exceptions.exe
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/exceptions.exe
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/obj/Debug/exceptions.pdb
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/exceptions.exe.config
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/EntityFramework.dll
+/home/karel/RiderProjects/Cs-gevorderen/exceptions/bin/Debug/EntityFramework.SqlServer.dll

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">UCLL Bank</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_website">Website</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- Settings/Preference titles -->
+    <string name="title_activity_settings">Settings</string>
+    <string name="common_header">Common</string>
+
+    <!-- Language preferences -->
+    <string name="language_title">Preferred language</string>
+    <string name="language_english">English</string>
+    <string name="language_french">French</string>
+    <string name="language_dutch">Dutch</string>
+    <string name="language_german">German</string>
+
+</resources>

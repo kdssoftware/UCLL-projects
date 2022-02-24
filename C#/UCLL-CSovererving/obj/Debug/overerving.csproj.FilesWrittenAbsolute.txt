@@ -1,0 +1,5 @@
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/overerving.pdb
+/home/karel/RiderProjects/Cs-gevorderen/overerving/bin/Debug/overerving.exe
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/overerving.exe
+/home/karel/RiderProjects/Cs-gevorderen/overerving/obj/Debug/overerving.pdb

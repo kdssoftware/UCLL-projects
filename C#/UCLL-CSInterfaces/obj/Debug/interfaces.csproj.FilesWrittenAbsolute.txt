@@ -1,0 +1,5 @@
+/home/karel/RiderProjects/Cs-gevorderen/interfaces/obj/Debug/.NETFramework,Version=v4.7.2.AssemblyAttribute.cs
+/home/karel/RiderProjects/Cs-gevorderen/interfaces/bin/Debug/interfaces.pdb
+/home/karel/RiderProjects/Cs-gevorderen/interfaces/bin/Debug/interfaces.exe
+/home/karel/RiderProjects/Cs-gevorderen/interfaces/obj/Debug/interfaces.exe
+/home/karel/RiderProjects/Cs-gevorderen/interfaces/obj/Debug/interfaces.pdb

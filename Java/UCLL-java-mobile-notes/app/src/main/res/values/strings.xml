@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UCLL Notes</string>
+    <string name="note_title">Title</string>
+    <string name="note_content">Content</string>
+    <string name="note_creation_date">Creation date</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnCreate">Create</string>
+    <string name="btnSave" translatable="false">Create or Update</string>
+    <string name="title_mandatory">Title is a mandatory field</string>
+    <string name="content_mandatory">Content is a mandatory field</string>
+
+</resources>

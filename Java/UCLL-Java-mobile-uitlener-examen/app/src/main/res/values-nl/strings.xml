@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uitlener Karel De Smet</string>
+    <string name="data_voorwerp">Voorwerp</string>
+    <string name="data_naam">Persoonnaam</string>
+    <string name="btnUpdate">Wijzigen</string>
+    <string name="btnCreate">Aanmaken</string>
+    <string name="naam_mandatory">Naam is een verplicht in te vullen veld</string>
+    <string name="date_mandatory">Datum is een verplicht in te vullen veld</string>
+    <string name="btn_wijzig_voltooi">Klaar</string>
+    <string name="sw_teruggebracht">Heb terug</string>
+    <string name="voorwerp_mandatory">Voorwerp is een verplicth in the vullen veld</string>
+    <string name="data_datum">Datum</string>
+    <string name="settings_header">Instellingen</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="settings_switch_title">Toon teruggekregen voorwerpen</string>
+    <string name="action_settings">Opties</string>
+</resources>
